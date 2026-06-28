@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
-#include "MalhaRodoviaria.h"
-#include "LeitorArquivo.h"
-#include "BuscadorDFS.h"
-#include "PlanejadorRotas.h"
+#include "../include/MalhaRodoviaria.h"
+#include "../include/LeitorArquivo.h"
+#include "../include/BuscadorDFS.h"
+#include "../include/PlanejadorRotas.h"
 
 int main(int argc, char* argv[]) {
     if (argc < 2) {

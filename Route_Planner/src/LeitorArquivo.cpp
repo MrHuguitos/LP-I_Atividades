@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "Util.h"
-#include "LeitorArquivo.h"
+#include "../include/Util.h"
+#include "../include/LeitorArquivo.h"
 
 LeitorArquivo::LeitorArquivo(std::string caminho) : caminho(caminho) {}
 

@@ -1,4 +1,4 @@
-#include "Rota.h"
+#include "../include/Rota.h"
 
 Rota::Rota() : encontrada(false), distanciaTotal(0) {}
 Rota::Rota(std::vector<Cidade> caminho, int distanciaTotal) : encontrada(true), caminho(caminho), distanciaTotal(distanciaTotal) {}

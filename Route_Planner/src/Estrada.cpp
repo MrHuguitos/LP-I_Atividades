@@ -1,4 +1,4 @@
-#include "Estrada.h"
+#include "../include/Estrada.h"
 
 Estrada::Estrada(Cidade origem, Cidade destino, int distancia) : origem(origem), destino(destino), distancia(distancia) {}
 

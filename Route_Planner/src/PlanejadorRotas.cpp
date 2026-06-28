@@ -1,4 +1,4 @@
-#include "PlanejadorRotas.h"
+#include "../include/PlanejadorRotas.h"
 
 PlanejadorRotas::PlanejadorRotas(BuscadorRota& buscador) : buscador(buscador) {}
 

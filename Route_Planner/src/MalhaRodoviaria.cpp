@@ -1,4 +1,4 @@
-#include "MalhaRodoviaria.h"
+#include "../include/MalhaRodoviaria.h"
 
 void MalhaRodoviaria::adicionarCidade(Cidade cidade) {
     std::string nome = cidade.getNome();

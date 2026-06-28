@@ -1,4 +1,4 @@
-#include "BuscadorDFS.h"
+#include "../include/BuscadorDFS.h"
 
 Rota BuscadorDFS::buscar(MalhaRodoviaria malha, std::string origem, std::string destino) {
     if (!malha.existeCidade(origem) || !malha.existeCidade(destino)) return Rota();
