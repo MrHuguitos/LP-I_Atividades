@@ -1,0 +1,110 @@
+São Paulo;Guarulhos;20
+São Paulo;Osasco;22
+São Paulo;Santo André;25
+São Paulo;São Bernardo do Campo;23
+São Paulo;Mogi das Cruzes;63
+São Paulo;Campinas;100
+São Paulo;Sorocaba;105
+São Paulo;Santos;75
+Guarulhos;Atibaia;55
+Atibaia;Bragança Paulista;25
+Bragança Paulista;Campinas;65
+Campinas;Jundiaí;40
+Jundiaí;São Paulo;60
+Campinas;Americana;40
+Americana;Limeira;35
+Limeira;Piracicaba;30
+Piracicaba;Rio Claro;40
+Rio Claro;São Carlos;65
+São Carlos;Araraquara;45
+Araraquara;Ribeirão Preto;90
+Ribeirão Preto;Sertãozinho;25
+Sertãozinho;Bebedouro;75
+Bebedouro;Barretos;55
+Ribeirão Preto;Franca;90
+Franca;Batatais;45
+Batatais;Ribeirão Preto;45
+Ribeirão Preto;São José do Rio Preto;190
+São José do Rio Preto;Catanduva;60
+Catanduva;Barretos;95
+São José do Rio Preto;Votuporanga;85
+Votuporanga;Fernandópolis;45
+Fernandópolis;Jales;40
+São José do Rio Preto;Araçatuba;160
+Araçatuba;Birigui;20
+Birigui;Lins;85
+Lins;Bauru;105
+Bauru;Jaú;55
+Jaú;Araraquara;75
+Bauru;Botucatu;90
+Botucatu;Avaré;75
+Avaré;Itapetininga;95
+Itapetininga;Sorocaba;70
+Sorocaba;Itu;40
+Itu;Jundiaí;55
+Sorocaba;Tatuí;55
+Tatuí;Itapetininga;45
+Sorocaba;Registro;165
+Registro;Iguape;85
+Registro;Santos;190
+Santos;Praia Grande;15
+Praia Grande;Mongaguá;30
+Mongaguá;Itanhaém;20
+Itanhaém;Peruíbe;35
+Santos;Cubatão;15
+Cubatão;São Bernardo do Campo;45
+Santo André;Mauá;15
+Mauá;Ribeirão Pires;15
+Ribeirão Pires;Suzano;35
+Suzano;Mogi das Cruzes;20
+Mogi das Cruzes;Jacareí;70
+Jacareí;São José dos Campos;18
+São José dos Campos;Caçapava;25
+Caçapava;Taubaté;20
+Taubaté;Pindamonhangaba;18
+Pindamonhangaba;Guaratinguetá;45
+Guaratinguetá;Aparecida;8
+Aparecida;Lorena;20
+Lorena;Cruzeiro;35
+São José dos Campos;Caraguatatuba;90
+Caraguatatuba;São Sebastião;40
+São Sebastião;Ubatuba;75
+Caraguatatuba;Ubatuba;55
+São José dos Campos;Campos do Jordão;90
+Campos do Jordão;Pindamonhangaba;55
+Campinas;Mogi Guaçu;65
+Mogi Guaçu;Mogi Mirim;10
+Mogi Mirim;São João da Boa Vista;70
+São João da Boa Vista;Casa Branca;45
+Casa Branca;Ribeirão Preto;120
+Campinas;Piracicaba;75
+Campinas;Indaiatuba;35
+Indaiatuba;Itu;35
+Indaiatuba;Salto;30
+Salto;Itu;10
+Jundiaí;Bragança Paulista;70
+Osasco;Barueri;12
+Barueri;Santana de Parnaíba;18
+Santana de Parnaíba;Jundiaí;55
+Osasco;Cotia;28
+Cotia;São Roque;35
+São Roque;Sorocaba;45
+São Bernardo do Campo;Diadema;12
+Diadema;São Paulo;18
+Santo André;São Caetano do Sul;10
+São Caetano do Sul;São Paulo;12
+Guarulhos;Mairiporã;25
+Mairiporã;Atibaia;40
+Bauru;Marília;105
+Marília;Assis;75
+Assis;Ourinhos;75
+Ourinhos;Avaré;120
+Ourinhos;Presidente Prudente;190
+Presidente Prudente;Presidente Venceslau;65
+Presidente Venceslau;Andradina;120
+Andradina;Araçatuba;115
+Araçatuba;Penápolis;50
+Penápolis;Lins;70
+Botucatu;São Manuel;25
+São Manuel;Lençóis Paulista;45
+Lençóis Paulista;Bauru;50

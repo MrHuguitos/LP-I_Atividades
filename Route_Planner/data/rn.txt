@@ -1,0 +1,15 @@
+Natal;Santa Cruz;115
+Santa Cruz;Currais Novos;90
+Natal;João Câmara;80
+Natal;Parnamirim;15
+Parnamirim;Macaíba;20
+Macaíba;Santa Cruz;95
+Currais Novos;Caicó;95
+Caicó;Pau dos Ferros;170
+João Câmara;Macau;110
+Macau;Mossoró;150
+Mossoró;Pau dos Ferros;130
+Santa Cruz;São Paulo do Potengi;70
+São Paulo do Potengi;Macaíba;45
+Currais Novos;Acari;35
+Acari;Caicó;65
